@@ -4,5 +4,5 @@ Sentment analysis (SA) is said to determine the exactness of the underlying emot
 
 In this project, we try to to the sentimetn analysis task on the Bromwell High Reviews dataset from IMDb. We apply a specific form of recursive neural networks, LSTM, which has the ability to capture long term dependencies.
 
-This dataset contains more than 20,000 reviews and the labels are classified as negative or positive.
+This dataset contains more than 20,000 reviews and the labels are classified as negative or positive. To run, unzip the Bromwell High Reviews dataset and put the files in the same directory as SentimentAnalysis.py file.
 
