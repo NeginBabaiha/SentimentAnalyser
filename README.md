@@ -6,3 +6,6 @@ In this project, we try to to the sentimetn analysis task on the Bromwell High R
 
 This dataset contains more than 20,000 reviews and the labels are classified as negative or positive. To run, unzip the Bromwell High Reviews dataset and put the files in the same directory as SentimentAnalysis.py file.
 
+
+## Dependencies
+SentimentAnalyzor is tested on Python version 3.69 and Keras 2.3.1. Use pip to install packages, separately.
