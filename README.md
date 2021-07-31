@@ -1,4 +1,4 @@
-# SentimentAnalyser
+# SentimentAnalyzor
 
 Sentment analysis (SA) is said to determine the exactness of the underlying emotion in a context and text. SA which is also called Emotion AI is mostly regarded as a popular application of Natural Language Processing (NLP). Basic sentiment analysis, especially for commercial use, can be narrowed down to classification of sentences, paragraphs, and posts or documents as negative, neutral, or positive. A more complex processing of sentiment and attitude, extraction of meaning, classification of intent, and linguistics-based emotion analysis are also gaining traction.
 
